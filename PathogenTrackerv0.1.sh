@@ -28,7 +28,7 @@ Help()
     echo "-m      Collapsed file USE ONLY in collapsed mode"
     echo
     echo "-o      Output directory.MANDATORY.careful, is your path is  /my/output/directory/ write it /my/output/directory  " 
-C
+}
 
 
 
